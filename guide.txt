@@ -1,0 +1,1 @@
+to add a font to the project, go to google fonts, then copy the embed, then add the url to index.html next to other links
